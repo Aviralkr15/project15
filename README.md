@@ -8,6 +8,9 @@ This is web based application for health related website in india.
 **Project Link** - https://calm-pebble-05b933100.3.azurestaticapps.net/
 **Projec demo video link - 
 
+## Azure Technologies Used:
+- Static Web Apps
+- Health bot
 
 ## Features & Functionalities
 
